@@ -51,7 +51,7 @@ https://devpost.com/software/cyper-attack-simulator-bsi-2
 
 ---
 
-## 🧱 Architecture (High-Level)
+## 🧱 Dashboard Architecture (High-Level)
 - Attack simulation engine  
 - Victim server environment  
 - Defense monitoring system  
