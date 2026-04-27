@@ -59,16 +59,6 @@ winner code submission (Demo): https://devpost.com/software/cyper-attack-simulat
 ![img](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/450/907/datas/gallery.jpg)
 ---
 
-## 👥 Contributors
-- [KyuDev](https://github.com/asdat3) - developer
-- Timo- developer  
-- [M. Haji](https://github.com/Mehrdad-hajizadeh/) – data provider and cybersecurity scenario maker
-- [clevilll](https://github.com/clevilll/) - cybersecurity supporter
-
-
-
----
-
 ## 🧠 Reflection
 This project provided valuable insights:
 
@@ -84,13 +74,9 @@ This project provided valuable insights:
 
 ---
 
-## 🚀 Getting Started
-```bash
-# Clone the repository
-git clone https://github.com/your-username/cyber-attack-simulator.git
+## 👥 Contributors
+- [KyuDev](https://github.com/asdat3) - developer
+- Timo- developer  
+- [M. Haji](https://github.com/Mehrdad-hajizadeh/) – data provider and cybersecurity scenario maker
+- [clevilll](https://github.com/clevilll/) - cybersecurity supporter
 
-# Navigate into the project
-cd cyber-attack-simulator
-
-# Install dependencies
-# (Add your stack here, e.g., npm install / pip install -r requirements.txt)
