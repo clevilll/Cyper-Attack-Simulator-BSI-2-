@@ -2,7 +2,7 @@
 [![YT](https://d112y698adiu2z.cloudfront.net/photos/production/challenge_photos/002/348/625/datas/full_width.png)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/HIHbEkMPbuk?si=3Pb9e486oLxcWPqz))
 
 ## 🎥 YT Video
-https://youtu.be/HIHbEkMPbuk?si=3Pb9e486oLxcWPqz
+HackHPI2023: https://youtu.be/HIHbEkMPbuk?si=3Pb9e486oLxcWPqz
 
 
 Cyper Attack Simulator (BSI Challenge 2) Simulating an Environment of Hacker, Victim Server and Defender, with the goal to educate Defenders. Also offering a real time overview/Dashboard for Manager
@@ -10,9 +10,11 @@ Cyper Attack Simulator (BSI Challenge 2) Simulating an Environment of Hacker, Vi
 
 # 🚨 Cyber Attack Simulator (BSI Challenge 2)
 
-**HPI GovTech Student Award – Building Trust in a Digitalized Government**
+**HPI GovTech Student Award – Building Trust in a Digitalized Government** : https://www.tele-task.de/lecture/video/9943/#t=420
 
 <img width="1134" height="630" alt="image" src="https://github.com/user-attachments/assets/7308db86-ff3f-4d0e-973e-42707d178f90" />
+
+HPI GovTech Student Award Part of the series [_Potsdamer Konferenz für Nationale CyberSicherheit (2023)_](https://youtu.be/n86WdBeszzY?si=1EMKjUGKvcZal0DC)
 
 ---
 
